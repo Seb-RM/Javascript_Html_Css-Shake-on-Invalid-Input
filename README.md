@@ -56,7 +56,7 @@ Además, el mensaje de error aparece con una transición suave y desaparece desp
 1. **Clona el repositorio** :
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git`
+git clone https://github.com/Seb-RM/Javascript_Html_Css-Shake-on-Invalid-Input.git`
 ```
 2. **Abre el archivo** **`index.html`** en tu navegador.
 
